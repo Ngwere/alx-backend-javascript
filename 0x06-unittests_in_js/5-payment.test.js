@@ -1,4 +1,4 @@
-t { expect } = require('chai');
+const { expect } = require('chai');
 const { it, describe } = require('mocha');
 const sinon = require('sinon');
 
