@@ -13,4 +13,7 @@ export function createUser() {
     lastName: 'Salva',
   });
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 863122752b32c8d77e8060f4e6c9fd4df1a12ce2
